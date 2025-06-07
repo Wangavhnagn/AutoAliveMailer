@@ -7,7 +7,7 @@
 ### 1. 安装依赖
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/Wangavhnagn/AutoAliveMailer/blob/main/requirements.txt
 ```
 
 ### 2. 设置邮箱账户（创建 `.env` 文件）
