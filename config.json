@@ -1,0 +1,6 @@
+{
+  "receivers": ["user1@example.com", "user2@example.com"],
+  "subject": "Keep-alive Email",
+  "content": "Hi, this is a regular keep-alive email.",
+  "send_time": "09:00"
+}
